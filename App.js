@@ -9,7 +9,7 @@ import Calculator from './components/Calculator';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Calculator />
+
     </View>
   );
 }
